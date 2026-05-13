@@ -6,3 +6,9 @@ dependencies = [
     "jupyterlab>=4.5.7",
     "pandas>=3.0.2",
 ]
+
+[dependency-groups]
+dev = [
+    "nbmake>=1.5.5",
+    "pytest>=9.0.3",
+]
