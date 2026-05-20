@@ -1,14 +1,24 @@
-# Product Requirements Document: [Product Name]
+# Product Requirements Document: [Supportmeasures](../README.md)  
 
 ## Product Overview
 
-**Product Vision:** [1-2 sentence description of the product vision]
+**Product Vision:**  
 
-**Target Users:** [Primary and secondary user personas]
+Анализ открытого набора данных по мерам поддержки ГИСП.  
 
-**Business Objectives:** [Key business goals this product aims to achieve]
+**Target Users:**  
 
-**Success Metrics:** [How success will be measured]
+Специалисты, которые работают с ГИСП в части подачи документов по мерам финансовой поддержки, предусмотренным действующим законодательством.  
+
+Руководители указанных специалистов.
+
+**Business Objectives:**  
+
+Для внутреннего использования.
+
+**Success Metrics:**  
+
+Для внутреннего использования.
 
 ## User Personas
 
@@ -29,7 +39,7 @@
 ## Feature Requirements
 
 | Feature | Description | User Stories | Priority | Acceptance Criteria | Dependencies |
-|---------|-------------|-------------|----------|---------------------|--------------|
+|---------|-------------|-------------_|----------|---------------------|--------------|
 | **[Feature 1]** | [Brief description] | [As a user, I want to...] | [Must/Should/Could/Won't] | [List of criteria] | [Dependencies] |
 | **[Feature 2]** | [Brief description] | [As a user, I want to...] | [Must/Should/Could/Won't] | [List of criteria] | [Dependencies] |
 | **[Feature 3]** | [Brief description] | [As a user, I want to...] | [Must/Should/Could/Won't] | [List of criteria] | [Dependencies] |
